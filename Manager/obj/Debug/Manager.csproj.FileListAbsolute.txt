@@ -1,0 +1,10 @@
+C:\Users\Sapat\source\repos\Manager\bin\Debug\Manager.exe.config
+C:\Users\Sapat\source\repos\Manager\bin\Debug\Manager.exe
+C:\Users\Sapat\source\repos\Manager\bin\Debug\Manager.pdb
+C:\Users\Sapat\source\repos\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\Sapat\source\repos\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Sapat\source\repos\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Sapat\source\repos\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\Sapat\source\repos\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sapat\source\repos\Manager\obj\Debug\Manager.exe
+C:\Users\Sapat\source\repos\Manager\obj\Debug\Manager.pdb

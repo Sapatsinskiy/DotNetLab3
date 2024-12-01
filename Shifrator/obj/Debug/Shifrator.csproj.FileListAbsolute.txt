@@ -1,0 +1,10 @@
+C:\Users\Sapat\source\repos\Shifrator\bin\Debug\Shifrator.exe.config
+C:\Users\Sapat\source\repos\Shifrator\bin\Debug\Shifrator.exe
+C:\Users\Sapat\source\repos\Shifrator\bin\Debug\Shifrator.pdb
+C:\Users\Sapat\source\repos\Shifrator\obj\Debug\Shifrator.csproj.AssemblyReference.cache
+C:\Users\Sapat\source\repos\Shifrator\obj\Debug\Shifrator.Form1.resources
+C:\Users\Sapat\source\repos\Shifrator\obj\Debug\Shifrator.Properties.Resources.resources
+C:\Users\Sapat\source\repos\Shifrator\obj\Debug\Shifrator.csproj.GenerateResource.cache
+C:\Users\Sapat\source\repos\Shifrator\obj\Debug\Shifrator.csproj.CoreCompileInputs.cache
+C:\Users\Sapat\source\repos\Shifrator\obj\Debug\Shifrator.exe
+C:\Users\Sapat\source\repos\Shifrator\obj\Debug\Shifrator.pdb
